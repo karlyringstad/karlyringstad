@@ -1,2 +1,2 @@
-# karlyringstad
+
 sqlalchemy-challenge
